@@ -1,0 +1,17 @@
+{
+  "name": "pcweb",
+  "description": "pc web init",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "https://github.com/Pipe-shen/PCWeb",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-scss": "JohnAlbin/normalize-scss#^6.0.0"
+  }
+}
